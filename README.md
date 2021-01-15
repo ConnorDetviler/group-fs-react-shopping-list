@@ -2,7 +2,7 @@
 
 ## Description
 
-_Duration: Group React Project_
+_Duration: 2 days of group work_
 
 This is shopping list full-stack app from scratch.
 
